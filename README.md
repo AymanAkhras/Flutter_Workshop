@@ -3,13 +3,19 @@
 ####	[Videos of the Flutter and Andriod SDK Setup](https://drive.google.com/drive/folders/1q0pHNl-hMBSxJtLea4Xf4kK2XkEWl6L3?usp=sharing)
 
 
-This repiostitory includes: 
+#### This repiostitory includes: 
+
 * Installation Guide
+
 * During workshop demo code
   *  [Link to the Demos](https://github.com/AymanAkhras/Flutter_Workshop/tree/main/Demos)
-* Slides (to be uploaded following the workshop)
+  
+* Slides
+ * [Link to Slides Download]()
 
-The worshop will have the following agenda:
+* Agenda Describing the many things the Presentation will inform. 
+
+#### The worshop will have the following agenda:
 
 1. Go over history of flutter
 2. What current apps use it and why use it
