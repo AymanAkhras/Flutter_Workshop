@@ -1,11 +1,9 @@
 # Flutter_Workshop
 
+####	1. [Videos of the Flutter and Andriod SDK Setup](https://drive.google.com/drive/folders/1q0pHNl-hMBSxJtLea4Xf4kK2XkEWl6L3?usp=sharing)
 
-Students will receive the following link: https://drive.google.com/drive/folders/1q0pHNl-hMBSxJtLea4Xf4kK2XkEWl6L3?usp=sharing
-with all the files they will need for the workshop
 
-This includes:
-
+This repiostitory includes: 
 * Installation Guide
 * During workshop demo code
 * Slides (to be uploaded following the workshop)
