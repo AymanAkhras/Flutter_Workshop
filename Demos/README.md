@@ -22,3 +22,8 @@
   - how to intract with the elements within the Appbar. 
 - Moreover, it shows the application of the Scaffold() widget. 
 
+
+##### Advanced Demo 
+[Github of the Demo](https://github.com/AymanAkhras/BinaryLingo)
+- This demo shows what could be potentially made through the use of flutter and dart. 
+
