@@ -6,7 +6,7 @@
 This repiostitory includes: 
 * Installation Guide
 * During workshop demo code
-  *  [Demos](https://github.com/AymanAkhras/Flutter_Workshop/tree/main/Demos)
+  *  [Link to the Demos](https://github.com/AymanAkhras/Flutter_Workshop/tree/main/Demos)
 * Slides (to be uploaded following the workshop)
 
 The worshop will have the following agenda:
